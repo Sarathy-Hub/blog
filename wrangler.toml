@@ -1,0 +1,8 @@
+name = "backend"
+main = "src/index.ts"
+compatibility_date = "2024-10-26"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMDQ3YWUzYmMtOTU5Ny00MjNjLTg1NGMtMmY2ZWUyODQ1MWRlIiwidGVuYW50X2lkIjoiMjMwNGNkOTIyN2FiMDNhNDNjMDJhMjQ5ZjU4YTQ3YTlkYzkzMGE1YTE1YTNhYTJmN2U3MjQwZjk1OTgyM2UxOSIsImludGVybmFsX3NlY3JldCI6ImE3MjliMmQ1LThjYTUtNDE5ZS05Nzg5LWNlOWUxODkyOGIzZCJ9.hQcN_kHhhqrA44So8ldEk6V56bOed51Zhj6LgL9l9yo"
+JWT_SECRET="Saranya123$"
